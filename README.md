@@ -1,2 +1,1 @@
-# quality-monitoring-kafka-pipeline
-Simple data pipeline project using Kafka and Postgre SQL
+Quality Monitoring Kafka Pipeline project files.
